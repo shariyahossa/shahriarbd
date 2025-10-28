@@ -1,0 +1,402 @@
+========== HOME ==========
+.home__greeting
+Hello, I'm
+
+.home__name
+Shariya Hossin
+
+.home__education
+Frontend Developer
+
+.home__social-link
+https://www.linkedin.com/
+https://github.com/
+https://dribbble.com/
+
+.home__scroll-name
+Scroll Down
+
+========== ABOUT ==========
+.section__subtitle | .section__title
+My Intro
+About Me
+
+.about__title | .about__subtitle
+Experience
+3 Years Working
+
+Completed
+10+ Projects
+
+Support
+Online 24/7
+
+.about__description
+Frontend developer, I create web pages with UI / UX user interface, 
+I have years of experience and many clients are happy 
+with the projects carried out.
+
+========== SKILLS ==========	
+.section__subtitle | .section__title
+My abilities
+My Experience
+
+.skills__title
+Frontend developer
+Backend Developer
+
+.skills__name | .skills__level
+HTML
+Advance
+
+CSS
+Advanced
+
+JavaScript
+Intermediate
+
+Github
+Intermediate
+
+Git
+Intermediate
+
+Java
+Intermediate
+
+
+Python
+Intermediate
+
+
+========== SERVICES ==========
+.section__subtitle | .section__title
+My Services
+What I Offer
+
+.services__title
+
+Web <br> Developer
+
+Software <br> Developer
+
+Application <br> Developer
+
+.services__modal-description
+Service with more than 1 years of experience. 
+Providing quality work to clients and companies.
+
+.services__modal-info
+I develop the user interface.
+
+Web page development.
+
+I create ux element interactions.
+
+I position your company brand.
+
+Design and mockups of products for companies.
+
+
+========== WORK  ==========
+.section__subtitle | .section__title
+My Portfolio
+Recent Works
+
+.work__item
+All
+Web
+Movil
+Design
+
+.work__title
+E-Books
+
+Web design
+
+App movil
+
+Brand design
+
+Web design
+
+App movil
+
+
+
+
+========== CONTACT ==========
+.section__subtitle | .section__title
+Get in touch
+Contact Me
+
+.contact__title
+Talk to me
+
+Write me your project
+
+.contact__card-title | .contact__card-data
+Email
+shahriarhossabd@gmail.com
+
+Whatsapp
+01759247773
+
+Messenger
+user.com
+
+.contact__button
+mailto:shahriarhossabd@gmail.com
+
+https://api.whatsapp.com/send?phone=01759247773&text=Hello, more information!
+
+https://m.me/user.com
+
+========== FOOTER ==========
+.footer__title
+Shariya
+
+.footer__link
+About
+
+Projects
+
+Testimonials
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; All rigths reserved
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="skills__container container grid">
+                    <div class="skills__content">
+                        <h3 class="skills__title">Fronted developer</h3>
+
+                        <div class="skills__box">
+                            <div class="skills__group">
+
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">HTML</h3>
+                                        <span class="skills__level">Basic</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">CSS</h3>
+                                        <span class="skills__level">Advanced</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">JavaScript</h3>
+                                        <span class="skills__level">Intermediate</span>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="skills__group">
+
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">Bootstrap</h3>
+                                        <span class="skills__level">Intermediate</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">Git</h3>
+                                        <span class="skills__level">Intermediate</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">React</h3>
+                                        <span class="skills__level">Intermediate</span>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    
+                    <div class="skills__content">
+                        <h3 class="skills__title">Backend Developer</h3>
+
+                        <div class="skills__box">
+                            <div class="skills__group">
+
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">PHP</h3>
+                                        <span class="skills__level">Intermediate</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">Node JS</h3>
+                                        <span class="skills__level">Basic</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">Python</h3>
+                                        <span class="skills__level">Intermediate</span>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="skills__group">
+
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">MySQL</h3>
+                                        <span class="skills__level">Intermediate</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">Firebase</h3>
+                                        <span class="skills__level">Intermediate</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="skills__data">
+                                    <i class='bx bxs-badge-check'></i>
+
+                                    <div>
+                                        <h3 class="skills__name">Github</h3>
+                                        <span class="skills__level">Intermediate</span>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.skills__container {
+  row-gap: 2rem;
+  padding-top: 1rem;
+}
+
+.skills__content {
+  background-color: var(--container-color);
+  padding: 1.5rem;
+  border-radius: 1.25rem;
+}
+
+.skills__title {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  color: var(--first-color);
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.skills__box {
+  display: flex;
+  justify-content: center;
+  column-gap: 2.5rem;
+}
+
+.skills__group {
+  display: grid;
+  align-content: flex-start;
+  row-gap: 1rem;
+}
+
+.skills__data {
+  display: flex;
+  column-gap: .5rem;
+}
+
+.skills .bxs-badge-check {
+  font-size: 1rem;
+  color: var(--first-color);
+}
+
+.skills__name {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  line-height: 18px;
+}
+
+.skills__level {
+  font-size: var(--tiny-font-size);
+}
